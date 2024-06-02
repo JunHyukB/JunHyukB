@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hello, I'am JunHyukB.
+Hello, I'm JunHyukB.
 
-I'am Information Security Manager in Korea
+I'm Information Security Manager in Korea
 
 <!--
 **JunHyukB/JunHyukB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
